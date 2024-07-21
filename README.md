@@ -1,1 +1,1 @@
-# Currency-Converter
+# Currency-Converter ->  A currency converter is a tool that converts money from one currency to another using current exchange rates. It’s used for travel, trade, and finance to understand currency values.
